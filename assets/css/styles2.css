@@ -1,0 +1,28 @@
+body {
+    background-color: thistle;
+    font-style: oblique;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: larger;
+}
+
+h2 {
+    font-size: xx-large;
+    font-weight: 600;
+    color: rgb(13, 3, 68);
+}
+
+li {
+    padding-bottom: 7px;
+}
+
+img {
+    width: 250px;
+}
+
+p {
+    font-size: xx-large;
+    color: crimson;
+    font-style: italic;
+    font-weight: 800;
+}
